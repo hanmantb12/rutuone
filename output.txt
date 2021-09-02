@@ -9,7 +9,7 @@ just changed
 we are changing data
 i have applied git add 
 
-git commit
+git commit////////
 
 git status
 what 
